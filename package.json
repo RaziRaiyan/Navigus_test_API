@@ -1,0 +1,22 @@
+{
+  "name": "navigus-api",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Md Raiyan Razi 16BEC0009",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "mongoose": "^5.8.10",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.2",
+    "pug": "^2.0.4"
+  }
+}
